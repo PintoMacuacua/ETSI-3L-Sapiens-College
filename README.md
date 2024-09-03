@@ -1,4 +1,4 @@
-  <img align="center" src="./ujc.png">
+  <p align="center"> <img  src="./ujc.png"> </p>
   <p align="center"> FACULDADE DE CIENCIAS E TECNOLOGIAS </p>
   <p align="center"> ENGENHARIA EM TECNOLOGIAS E SISTEMAS DE INFORMAÇAO </p>
   <p align="center"> LABORATORIO DE ENGENHARIA DE SOFTWARE </p>

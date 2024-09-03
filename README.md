@@ -1,6 +1,7 @@
-# <p align="center"> FACULDADE DE CIENCIAS E TECNOLOGIAS </p>
-# ENGENHARIA EM TECNOLOGIAS E SISTEMAS DE INFORMAÇAO
-# LABORATORIO DE ENGENHARIA DE SOFTWARE
+  <img src="./ujc.png">
+  <p align="center"> FACULDADE DE CIENCIAS E TECNOLOGIAS </p>
+  <p align="center"> ENGENHARIA EM TECNOLOGIAS E SISTEMAS DE INFORMAÇAO </p>
+  <p align="center"> LABORATORIO DE ENGENHARIA DE SOFTWARE </p>
 > Uma Plataforma de Comunicação entre Professores e Encarregados de Educação: Uma Solução Digital para Monitoria e Melhoria do Desempenho Escolar dos Alunos
 
 ## Contextualização
